@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
 - 👨‍💻 Mostly Active on [GitLab](https://gitlab.com/ananttheant)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
 
 ### Connect with me:
 
