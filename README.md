@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning unity, shaders and game-dev
 - 👯 I’m looking to collaborate on indie games
 - 🤔 I’m looking for help with graphics and shaders
-- 💬 Ask me about games, dota, moba, game dev
+- 💬 Ask me about games, dota, moba, game dev, unity
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
 - 👨‍💻 **Mostly Active on** [GitLab](https://gitlab.com/ananttheant)
