@@ -7,7 +7,7 @@
 - 💬 Ask me about games, dota, moba, game dev
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
-- Mostly Active on [GitLab](https://gitlab.com/ananttheant)
+- 👨‍💻 Mostly Active on [GitLab](https://gitlab.com/ananttheant)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
