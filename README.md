@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://iconsplace.com/wp-content/uploads/_icons/ffffff/256/png/linkedin-icon-18-256.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src= "https://user-images.githubusercontent.com/10895811/152780628-e0d4fc39-067a-4faf-9d2c-f80a0d45b783.png"/>][linkedin]
 
 <br/>
 
