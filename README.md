@@ -1,9 +1,9 @@
 ### Hey, I'm Anant Sharma! 🐱‍👤👾
 
 - 🔭 I’m currently working at [Titik Pintar](https://titikpintar.id/)
-- 🌱 I’m currently learning unity, graphics and game-dev
+- 🌱 I’m currently learning unity, shaders and game-dev
 - 👯 I’m looking to collaborate on indie games
-- 🤔 I’m looking for help with unity and game dev
+- 🤔 I’m looking for help with graphics and shaders
 - 💬 Ask me about games, dota, moba, game dev
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
