@@ -12,7 +12,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttheant&layout=compact&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttheant&layout=compact&theme=vue" />
 
 ### Connect with me:
 
