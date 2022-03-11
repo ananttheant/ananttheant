@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
 - 👨‍💻 **Mostly Active on** [GitLab](https://gitlab.com/ananttheant)
-- 📃 For more please see <a href="https://ananttheant.github.io/" target="_blank">Portfolio</a> [go](http://stackoverflow.com){:target="_blank"}.
+- 📃 For more please see <a href="https://ananttheant.github.io/" target="_blank">Portfolio</a>.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
