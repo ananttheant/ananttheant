@@ -12,11 +12,11 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttheant&layout=compact&theme=vue" />
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="60px" src= "https://user-images.githubusercontent.com/10895811/152938752-963cfa44-403e-401d-a472-6d8fb0fc3684.png"/>][linkedin]
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttheant&layout=compact&theme=vue" />
 
 <br/>
 
