@@ -1,6 +1,6 @@
 ### Hey, I'm Anant Sharma! 🐱‍👤👾
 
-- 🔭 I’m currently working at [Titik Pintar](https://titikpintar.id/)
+- 🔭 I’m currently working at [Miniclip](https://www.miniclip.com/)
 - 🌱 I’m currently learning unity, shaders and game-dev
 - 👯 I’m looking to collaborate on indie games
 - 🤔 I’m looking for help with graphics and shaders
