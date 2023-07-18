@@ -1,13 +1,13 @@
 ### Hey, I'm Anant Sharma! 🐱‍👤👾
 
-- 🔭 I’m currently working for [Miniclip](https://www.miniclip.com/) as Software Developer II [Unity Tech]
+- 🔭 I’m currently working for [Miniclip](https://www.miniclip.com/) as Software Developer II [Unity Tech] ([Work Account](https://github.com/anantsharmamc))
 - 🌱 I’m currently learning unity, shaders and game-dev
 - 👯 I’m looking to collaborate on indie games
 - 🤔 I’m looking for help with graphics and shaders
 - 💬 Ask me about games, dota, moba, game dev, unity
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I can game for 24hrs+ 😵🤩
-- 👨‍💻 **Mostly Active on** [GitLab](https://gitlab.com/ananttheant)
+- 👨‍💻 **Was Mostly Active on** [GitLab](https://gitlab.com/ananttheant)
 - 📃 For more please see <a href="https://ananttheant.github.io/" target="_blank">Portfolio</a>.
 
 
