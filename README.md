@@ -1,6 +1,6 @@
 ### Hey, I'm Anant Sharma! 🐱‍👤👾
 
-- 🔭 I’m currently working for [Miniclip](https://www.miniclip.com/) as Software Developer II [Unity Tech] ([Work Github Account](https://github.com/anantsharmamc))
+- 🔭 I’m currently working for [Miniclip](https://www.miniclip.com/) as Software Developer II [Unity Tech] ([old Work Github Account](https://github.com/anantsharmamc))
 - 🌱 I’m currently learning unity, shaders and game-dev
 - 👯 I’m looking to collaborate on indie games
 - 🤔 I’m looking for help with graphics and shaders
