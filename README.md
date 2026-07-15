@@ -5,8 +5,6 @@
 - 👯 I’m looking to collaborate on indie games
 - 🤔 I’m looking for help with graphics and shaders
 - 💬 Ask me about games, dota, moba, game dev, unity
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I can game for 24hrs+ 😵🤩
 - 📃 For more please see <a href="https://ananttheant.github.io/" target="_blank">Portfolio</a>.
 - ☕️ You can Buy-Me-Coffee at https://buymeacoffee.com/ananttheant
 
@@ -14,6 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ananttheant&&show_icons=true&title_color=41b883&icon_color=41b883&text_color=273849&bg_color=fffefe"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttheant&layout=compact&theme=vue" />
 - 👨‍💻 **Was Mostly Active on** [GitLab](https://gitlab.com/ananttheant) (in my past company)
+- ⚡ Fun fact: I can game for 24hrs+ 😵🤩
 -->
 
 ### Connect with me:
